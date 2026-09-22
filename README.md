@@ -27,7 +27,7 @@ The application automatically detects H.264 or H.265 video streams inside DAV fi
 
 ## Screenshot
 
-![DAV to MP4 Converter](assets/screenshot.png)
+![DAV to MP4 Converter](assets/DAVConverter.png)
 
 ## How It Works
 
